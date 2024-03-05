@@ -7,5 +7,4 @@ void main() {
     num avg = sum / (lst.length);
     return avg;
   }
-  print(average([1,2,3,4,5]));
 }
