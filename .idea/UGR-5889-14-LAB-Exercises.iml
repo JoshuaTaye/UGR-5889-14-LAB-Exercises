@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/handle_states/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/handle_states/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/handle_states/build" />
+      <excludeFolder url="file://$MODULE_DIR$/river_pod/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/river_pod/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/river_pod/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
