@@ -8,8 +8,19 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/JetPack Compose" />
-            <option value="$PROJECT_DIR$/JetPack Compose/app" />
+            <option value="$PROJECT_DIR$/Jetpack Compose" />
+            <option value="$PROJECT_DIR$/Jetpack Compose/app" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Jetpack Compose" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Jetpack Compose" />
+            <option value="$PROJECT_DIR$/Jetpack Compose/app" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
