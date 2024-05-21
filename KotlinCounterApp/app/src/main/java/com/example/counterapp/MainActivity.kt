@@ -18,16 +18,13 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Initialize views
         countTextView = findViewById(R.id.countTextView)
         incrementButton = findViewById(R.id.incrementButton)
         decrementButton = findViewById(R.id.decrementButton)
         resetButton = findViewById(R.id.resetButton)
 
-        // Set initial count value
         countTextView.text = count.toString()
 
-        // Set click listeners
         incrementButton.setOnClickListener { incrementCount() }
         decrementButton.setOnClickListener { decrementCount() }
         resetButton.setOnClickListener { resetCount() }
