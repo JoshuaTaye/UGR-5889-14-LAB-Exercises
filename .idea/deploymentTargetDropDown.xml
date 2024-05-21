@@ -5,13 +5,40 @@
       <entry key="Compose.app">
         <State />
       </entry>
+      <entry key="Compose.app.androidTest">
+        <State />
+      </entry>
+      <entry key="Compose.app.main">
+        <State />
+      </entry>
+      <entry key="Compose.app.unitTest">
+        <State />
+      </entry>
       <entry key="app">
         <State />
       </entry>
       <entry key="tutorial1.app">
         <State />
       </entry>
+      <entry key="tutorial1.app.androidTest">
+        <State />
+      </entry>
+      <entry key="tutorial1.app.main">
+        <State />
+      </entry>
+      <entry key="tutorial1.app.unitTest">
+        <State />
+      </entry>
       <entry key="tutorial2.app">
+        <State />
+      </entry>
+      <entry key="tutorial2.app.androidTest">
+        <State />
+      </entry>
+      <entry key="tutorial2.app.unitTest">
+        <State />
+      </entry>
+      <entry key="tutorial3.app">
         <State />
       </entry>
     </value>
